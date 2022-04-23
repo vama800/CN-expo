@@ -1,9 +1,8 @@
-
 * {
   /* background-color: #efefef; */
   margin: 0;
   padding: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 body {
@@ -13,9 +12,9 @@ body {
 .nav-container {
   margin: 0;
   background-color: #364552;
-  padding-top: 0.50rem;
-  padding-bottom: 1.20rem;
-  border-radius: 0 0 8px 8px ;
+  padding-top: 0.5rem;
+  padding-bottom: 1.2rem;
+  border-radius: 0 0 8px 8px;
 }
 
 .nav-menu {
@@ -32,7 +31,7 @@ body {
 .nav-title {
   display: inline;
   text-decoration: none;
-  font-size: 2.30rem;
+  font-size: 2.3rem;
   color: white;
   padding-left: 10px;
 }
@@ -44,17 +43,40 @@ body {
 
 .post {
   background-color: #fff;
-  margin: 1rem 0 ;
+  margin: 1rem 0;
   border-radius: 0.5rem;
   margin-top: 2rem;
   padding: 0.25rem 0;
 }
 
-.post h1 {
-  font-size: 1.80rem;
+.post:hover {
+  cursor: pointer;
+  box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.3);
 }
 
-.post h1, .post p {
-  padding-left: 0.50rem ;
-  padding-top: 0.50rem ;
+.post h1 {
+  font-size: 1.8rem;
+}
+
+.post h1,
+.post p {
+  padding-left: 0.5rem;
+  padding-top: 0.5rem;
+}
+
+footer {
+  background-color: #222;
+  padding: 3rem;
+  color: #fff;
+  margin: 0;
+}
+
+footer a {
+  float: right;
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: cornflowerblue;
 }
