@@ -1,0 +1,3 @@
+console.log("En un lugar de la mancha, cuyo nombre no quiero acordarme no hace mucho vivia  jp lamentando el no haber hablado con aquella mujer de nombre mariana. lo que el no sabia era que no tenia nada que perder y de todas formas esa nada ya la tenia")
+
+console.log("bovnzragr yrb l nan ina n grare han erynpvba l cnen zv gevfgrmn yn zvener qr yrwbf(hf ahapn fr iren gna oevyynagr ahapn una crafnqb ra rzcrmne qr preb ra han cnvf zrwbe yn certhagn rf cbedhr rfr pbasbezvfzb l nzbe cbe rfgr cnvf gna wbqvqb 'ry cngevbgvfzb l nzbe cbe han anpvba fr phen ivnwnaqb')")
