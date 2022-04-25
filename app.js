@@ -1,3 +1,7 @@
 console.log("En un lugar de la mancha, cuyo nombre no quiero acordarme no hace mucho vivia  jp lamentando el no haber hablado con aquella mujer de nombre mariana. lo que el no sabia era que no tenia nada que perder y de todas formas esa nada ya la tenia")
 
+console.log("Gabriel no se que decir de ti xd")
+
 console.log("bovnzragr yrb l nan ina n grare han erynpvba l cnen zv gevfgrmn yn zvener qr yrwbf(hf ahapn fr iren gna oevyynagr ahapn una crafnqb ra rzcrmne qr preb ra han cnvf zrwbe yn certhagn rf cbedhr rfr pbasbezvfzb l nzbe cbe rfgr cnvf gna wbqvqb 'ry cngevbgvfzb l nzbe cbe han anpvba fr phen ivnwnaqb')")
+
+console.log(" fnora nirprf fhrab pba qne ry qvfphefb qr tenqhnpvba l zr yb phrfgvbab fv qrorevn ve n cbe rfb, ra ry zr vzntvab qnaqb pbafrwbf l unoynaqb frevnzragr qr gbqb yb dhr pnzovn ry zhaqb fhcbatb dhr frzcer ur dhrevqb vafcvene qr gbqnf sbeznf ln rf zhl gneqr yn pntr ra rfgr cevzre vagragb qr fre nythvra, cbe rfb lb ab rfgner ndhv cnen qneyb cnen zv rrhh rf ry shgheb b avfvdhvren rfr pnanqn fr ir ovra am gnzovra svaynaqvn vthny, ab perb ra ry pbasbezvfzb creb perb ra qrwneyb gbqb fv perrf dhr gr chrqr ve zrwbe. nythan irm una crafnqb ra ynf zvgvpnf senfrf qr ongzna l ry thnfba 'zhrer fvraqb ha urebr b ivir cnen pbiregvegrr ra ha ivyynab' n zv cnerpre fr ncyvpn ra pnqn nzovgb qr yn ivqn cbe yb dhr graqer phvqnqb tenk cbe yrre ")
